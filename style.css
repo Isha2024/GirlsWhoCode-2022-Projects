@@ -1,0 +1,219 @@
+#Title{
+  text-align:center;
+  display:inline;
+  font-size:90px;
+    font-family:Calibri;
+  
+  
+  
+  color:darkseagreen;
+  
+}
+#sentence{
+  color:darkseagreen;
+  background-color:lavender;
+  padding:10px;
+  text-align:center
+  margin-left:200px;
+  margin-right:100px;
+  border: 10px solid darkseagreen;
+  
+}
+  
+
+body{
+  background-color:lavender;
+  
+}
+
+.titles{
+  color:darkseagreen;
+  background-color:mistyrose;
+  margin-right:400px;
+  border-top:25px solid;
+  border-bottom:100px solid;
+  border-color:mistyrose;
+  text-align:center;
+  
+  margin-top:35px;
+  
+  
+}
+
+#topic1{
+  background-color:mistyrose;
+  color:darkseagreen;
+  margin-right:50px;
+  margin-left:50px;
+  position:static;
+  float:left;
+  font-size:45px;
+  font-family:Calibri;
+  
+  
+  
+}
+#topic2{
+  background-color:mistyrose;
+  color:darkseagreen;
+  float:left;
+  font-size:45px;
+  margin-right:200px;
+  margin-left:50px;
+  font-family:Calibri;
+}
+#facts1{
+
+background-color: mistyrose;
+padding:100px;
+
+border:10px darkseagreen solid;
+max-width:700px;
+font-family:Calibri;
+  color:darkseagreen;
+  
+}
+#facts2{
+  
+  padding:100px;
+  background-color:mistyrose;
+  border:10px darkseagreen solid;
+  max-width:700px;
+  padding:100px;
+  font-family:Calibri;
+  color:darkseagreen;
+     
+   
+   
+   
+   
+ }
+#brain{
+  float:right;
+  max-height:900px;
+  max-width:700px;
+  border:50px;
+
+  
+}
+
+
+
+
+ul{
+
+  list-style-type:none;
+  overflow:hidden;
+  margin:0px;
+  background-color:mistyrose
+}
+li{
+  float:right
+}
+li a{
+  display:block;
+  left-margin:5px;
+  right margin:5px;
+  padding:50px;
+  color:darkseagreen;
+  font-size:30px
+
+  
+}
+li a:hover{
+  background-color:pink;
+  color:white;
+  
+}
+#info{
+  color:darkseagreen;
+  background-color:aliceblue;
+  max-width:700px;
+  padding:25px;
+  top-margin:0px;
+  opacity:80%;
+  float:left;
+  font-size:30px;
+  font-family:Calibri;
+  border:10px solid darkseagreen;
+  
+}
+
+}
+#help{
+  color:black;
+  
+}
+
+#pinkimage{
+  height:150px;
+  width:150px;
+  margin-top:15px;
+  margin bottom:0px;
+  margin-left:10px;
+}
+#action1{
+  background-color:mistyrose;
+  padding:50px;
+  margin-bottom:0px;
+  color:darkseagreen;
+  
+}
+#action2{
+  background-color:mistyrose;
+  margin-top:20px;
+  padding:25px;
+  border:pink solid 10px;
+  color:darkseagreen;
+  font-family:Calibri;
+  max-width:800px;
+  font-size:30px;
+}
+
+#action3{
+  background-color:mistyrose;
+  margin-top:25px;
+  padding:25px;
+  color:darkseagreen;
+  border:pink solid 10px;
+  font-family:Calibri;
+  max-width:800px;
+  font-size:30px;
+}
+
+
+#therapy{
+  width:500px;
+  height:500px;
+  float:right;
+  top:-1000px;
+  left:-300px;
+  
+  position:relative;
+  border:20px solid darkseagreen;
+}
+#brain{
+  width:400px;
+  height:450px;
+  position:relative;
+  left:-80px;
+  right:-400px;
+  top:17px;
+  border:solid 10px #B9D9EB ;
+  
+  
+  
+}
+#start{
+  font-family:Calibri;
+  font-size:30px;
+  color:darkseagreen;
+  background-color:mistyrose;
+  float:right;
+  max-width:500px;
+  position:relative;
+  left:-20px;
+  padding: 45px;
+  border: solid darkseagreen 10px;
+}
+  
